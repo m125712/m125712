@@ -27,7 +27,7 @@ and exploring machine learning and computer vision.
 
 - 💻 Software Developer at **Synap Tech Limited**, working since August 2024.
 - 🎓 B.Sc. in Computer Science from **East West University**.
-- 🧠 Interested in **machine learning, computer vision, and AI-powered applications**.
+- 🧠 Interested in **machine learning, computer vision, web devlopment and AI-powered applications**.
 - 📫 Reach me at **[mirsadalhossain5712@gmail.com](mailto:mirsadalhossain5712@gmail.com)**.
 
 ## Tech Stack
